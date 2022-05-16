@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregsypek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning REACT, WORDPRESS, BOOTSTRAP
+- 🌱 I’m currently learning VUE, NUXT
 - 📫 How to reach me: 
 * [linkedin](https://www.linkedin.com/in/grzegorz-sypek-47472a194/)
 * [portfolio](https://portfolio-gregsypek.netlify.app/)
