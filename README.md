@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gregsypek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning VUE, NUXT
+- 🌱 I’m currently learning TYPESCRIPT, NEXT
 - 📫 How to reach me: 
 * [linkedin](https://www.linkedin.com/in/grzegorz-sypek-47472a194/)
-* [portfolio](https://portfolio-gregsypek.netlify.app/)
+* [portfolio](https://gregsypek-portfolio.netlify.app/)
 
 
 
