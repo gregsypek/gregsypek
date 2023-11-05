@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregsypek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning TYPESCRIPT, NEXT
+- 🌱 I’m currently learning TYPESCRIPT, REACT NATIVE  
 - 📫 How to reach me: 
 * [linkedin](https://www.linkedin.com/in/grzegorz-sypek-47472a194/)
 * [portfolio](https://gregsypek-portfolio.netlify.app/)
