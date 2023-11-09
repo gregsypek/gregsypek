@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning TYPESCRIPT, REACT NATIVE  
 - 📫 How to reach me: 
 * [linkedin](https://www.linkedin.com/in/grzegorz-sypek-47472a194/)
-* [portfolio](https://gregsypek-portfolio.netlify.app/)
+* [portfolio](https://gregsypek.netlify.app/)
 
 
 
