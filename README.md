@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @gregsypek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning TYPESCRIPT, REACT NATIVE  
+- 🌱 I’m currently learning TYPESCRIPT, REACT NATIVE, REACT QUERY  
 - 📫 How to reach me: 
 * [linkedin](https://www.linkedin.com/in/grzegorz-sypek-47472a194/)
-* [portfolio](https://gregsypek.netlify.app/)
+* [portfolio](https://gregsypek-p3.vercel.app/)
 
 
 
