@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A Software Developer from Poland | Next, React & Tailwind Enthusiast</h3>
 
 - 🔭 I’m currently working on [Bakery](https://bakery-corp.netlify.app/login)
 
