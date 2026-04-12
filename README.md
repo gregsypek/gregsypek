@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Greg</h1>
 <h3 align="center">A Software Developer from Poland | Next, React & Tailwind Enthusiast</h3>
 
-- 🔭 I’m currently working on [Bakery](https://bakery-corp.netlify.app/login)
+- 🔭 I’m currently working on [InvestGuard](https://invest-guard-blue.vercel.app/)
 
 - 🌱 I’m currently learning **Next15, Typescript, React Native**
 
